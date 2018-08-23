@@ -15,8 +15,8 @@ Se marcará en el documento con el estado ACTUAL para indicar en que etapa se en
             COMPLETO
         c. Medir necesidad de usar Scrapy para hacer el scrapeo de las páginas web seleccionadas en punto 1.a, y ver si es necesario su aprendizaje. 
             POR AHORA PARECIERA QUE NO NECESITO LA ESCALABILIDAD QUE ME OTORGA SCRAPY, PREFIERO USAR ALGO MAS SENCILLO COMO BS4, PERO HAY QUE EVALUARLO MAS ADELANTE A LA HORA DE ENTRENAR CON UN CORPUS DE TEXTO CONSIDERABLE. PENDIENTE.
-        d. Revisar de cada página seleccionada en 1.a usando lo aprendido en 1.b que información es la que quiero capturar (noticias, reviews, etc.). ACTUAL
-        e. Usando lo aprendido en los puntos anteriores, hacer un script para cada página para capturar la información que en el punto 1.d definí como objetivo.
+        d. Revisar de cada página seleccionada en 1.a usando lo aprendido en 1.b que información es la que quiero capturar (noticias, reviews, etc.). COMPLETO
+        e. Usando lo aprendido en los puntos anteriores, hacer un script para cada página para capturar la información que en el punto 1.d definí como objetivo. ACTUAL
         f. Evaluar viabilidad para unificar esos scripts en un solo proceso.
         g. Almacenar lo obtenido en una base de datos, detallado en punto 2.
 
