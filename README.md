@@ -8,6 +8,7 @@
 Se marcará en el documento con el estado ACTUAL para indicar en que etapa se encuentra el desarrollo.    
     
 -Pasos a seguir:    
+
     1. Scrapear las páginas en inglés más importantes.
         a. Seleccionar cuales son las páginas más importantes que voy a querer utilizar. 
             COMPLETO
